@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-06T17:06:18+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">My first publication</title><link href="http://localhost:4000/blog/2025/firstpub/" rel="alternate" type="text/html" title="My first publication" /><published>2025-07-30T18:00:00+09:00</published><updated>2025-07-30T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/firstpub</id><content type="html" xml:base="http://localhost:4000/blog/2025/firstpub/"><![CDATA[<p>My first paper as a co-author has been published.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[My first paper as a co-author has been published.]]></summary></entry><entry><title type="html">New Position as an Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST</title><link href="http://localhost:4000/blog/2025/nschoi/" rel="alternate" type="text/html" title="New Position as an Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST" /><published>2025-07-01T18:00:00+09:00</published><updated>2025-07-01T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/nschoi</id><content type="html" xml:base="http://localhost:4000/blog/2025/nschoi/"><![CDATA[<p>I started working as an undergraduate researcher</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[I started working as an undergraduate researcher]]></summary></entry><entry><title type="html">Georgia Tech 19th UROP Spring Symposium</title><link href="http://localhost:4000/blog/2025/UROPposter/" rel="alternate" type="text/html" title="Georgia Tech 19th UROP Spring Symposium" /><published>2025-04-17T18:00:00+09:00</published><updated>2025-04-17T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/UROPposter</id><content type="html" xml:base="http://localhost:4000/blog/2025/UROPposter/"><![CDATA[<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-06T19:23:33+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">My First Publication</title><link href="http://localhost:4000/blog/2025/FirstPaper/" rel="alternate" type="text/html" title="My First Publication" /><published>2025-07-30T18:00:00+09:00</published><updated>2025-07-30T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/FirstPaper</id><content type="html" xml:base="http://localhost:4000/blog/2025/FirstPaper/"><![CDATA[<p>My first paper as a co-author has been published on Advanced Functional Materials. This work has led by my research mentor Yoojin at Georgia Tech.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[My first paper as a co-author has been published on Advanced Functional Materials. This work has led by my research mentor Yoojin at Georgia Tech.]]></summary></entry><entry><title type="html">Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST</title><link href="http://localhost:4000/blog/2025/NewURA/" rel="alternate" type="text/html" title="Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST" /><published>2025-07-01T18:00:00+09:00</published><updated>2025-07-01T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/NewURA</id><content type="html" xml:base="http://localhost:4000/blog/2025/NewURA/"><![CDATA[<p>Returning to my home university, I started a new position as an undergraduate research assistant at Energy Materials Lab (PI: Prof. Nam-Soon Choi) at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into new kind of system and looking forward to the contribution.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[Returning to my home university, I started a new position as an undergraduate research assistant at Energy Materials Lab (PI: Prof. Nam-Soon Choi) at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into new kind of system and looking forward to the contribution.]]></summary></entry><entry><title type="html">Wrapping up my Georgia Tech Exchange Journey</title><link href="http://localhost:4000/blog/2025/GeorgiaTechExchange/" rel="alternate" type="text/html" title="Wrapping up my Georgia Tech Exchange Journey" /><published>2025-05-02T18:00:00+09:00</published><updated>2025-05-02T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/GeorgiaTechExchange</id><content type="html" xml:base="http://localhost:4000/blog/2025/GeorgiaTechExchange/"><![CDATA[<p>I’m happy to announce that I’ve successfully finished my exchange program at Georgia Institute of Technology.
+Adpating to new environment
+Research experience
+International community experience</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -13,16 +18,44 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/250417UROP1.heic" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/assets/img/GTRamblinWreck-480.webp 480w,/assets/img/GTRamblinWreck-800.webp 800w,/assets/img/GTRamblinWreck-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/250417UROP1.heic" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/GTRamblinWreck.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
 </figure>
-</swiper-slide>
-  <swiper-slide>
+
+</div>]]></content><author><name></name></author><category term="extracurricular" /><summary type="html"><![CDATA[I’m happy to announce that I’ve successfully finished my exchange program at Georgia Institute of Technology. Adpating to new environment Research experience International community experience]]></summary></entry><entry><title type="html">Georgia Tech 19th UROP Spring Symposium</title><link href="http://localhost:4000/blog/2025/UROPPoster/" rel="alternate" type="text/html" title="Georgia Tech 19th UROP Spring Symposium" /><published>2025-04-17T18:00:00+09:00</published><updated>2025-04-17T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/UROPPoster</id><content type="html" xml:base="http://localhost:4000/blog/2025/UROPPoster/"><![CDATA[<p>I successfully presented my ongoing research at the 19th UROP Spring Symposium, held at the Exhibition Hall at Georgia Tech. Building on the lessons learned from my previous MRS poster session, I was able to deliver a more refined and effective presentation.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/250417UROP1-480.webp 480w,/assets/img/250417UROP1-800.webp 800w,/assets/img/250417UROP1-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/250417UROP1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+</div>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -43,11 +76,14 @@
 
   
 </figure>
-</swiper-slide>
-</swiper-container>
 
-<p>I gave the poster presentation in the 19th UROP (Undergraduate Research Opportunities Program) Spring Symposium at Exhibition Hall. It was a fantastic experience.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Georgia Tech 12th Annual MRS Poster Competition</title><link href="http://localhost:4000/blog/2025/MRSposter/" rel="alternate" type="text/html" title="Georgia Tech 12th Annual MRS Poster Competition" /><published>2025-04-03T18:00:00+09:00</published><updated>2025-04-03T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/MRSposter</id><content type="html" xml:base="http://localhost:4000/blog/2025/MRSposter/"><![CDATA[<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>
+</div>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[I successfully presented my ongoing research at the 19th UROP Spring Symposium, held at the Exhibition Hall at Georgia Tech. Building on the lessons learned from my previous MRS poster session, I was able to deliver a more refined and effective presentation.]]></summary></entry><entry><title type="html">Georgia Tech 12th Annual MRS Poster Competition</title><link href="http://localhost:4000/blog/2025/MRSPoster/" rel="alternate" type="text/html" title="Georgia Tech 12th Annual MRS Poster Competition" /><published>2025-04-03T18:00:00+09:00</published><updated>2025-04-03T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/MRSPoster</id><content type="html" xml:base="http://localhost:4000/blog/2025/MRSPoster/"><![CDATA[<p>I gave a poster presentation at the 12th Annual MRS Poster Competition, organized by the MRS Chapter at Georgia Tech and held at the Marcus Nanotechnology Building.
+As an undergraduate researcher, I presented my ongoing work on investigating the effect of surface treatment on Ni/Mn-based Co-free layered oxide cathode for Li-ion Batteries. You can find the poster in the “Project” section of this website.
+This was my very first poster presentation. The whole processes of desiging the poster, preparing a short pitch, and answering questions from the audience helped me further develop my scientific comuunication skills. It was truly a fantastic experience.
+I’d like to give a special shout-out to my mentor Yoojin and my advisor Prof. Meilin Liu for their invaluable advice and support.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -60,16 +96,19 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/250403MRS1.heic" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/assets/img/250403MRS1-480.webp 480w,/assets/img/250403MRS1-800.webp 800w,/assets/img/250403MRS1-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/250403MRS1.heic" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/250403MRS1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
 </figure>
-</swiper-slide>
-  <swiper-slide>
+
+</div>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -82,21 +121,22 @@
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/250403MRS2.heic" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/assets/img/250403MRS2-480.webp 480w,/assets/img/250403MRS2-800.webp 800w,/assets/img/250403MRS2-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/250403MRS2.heic" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/250403MRS2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
 </figure>
-</swiper-slide>
-</swiper-container>
 
-<p>I gave the poster presentation in the 12th Annual MRS Poster Competition at Marcus Nanotechnology building. It was a fantastic experience.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Exchange Program at Georgia Institute of Technology</title><link href="http://localhost:4000/blog/2024/GeorgiaTech/" rel="alternate" type="text/html" title="Exchange Program at Georgia Institute of Technology" /><published>2024-09-01T18:00:00+09:00</published><updated>2024-09-01T18:00:00+09:00</updated><id>http://localhost:4000/blog/2024/GeorgiaTech</id><content type="html" xml:base="http://localhost:4000/blog/2024/GeorgiaTech/"><![CDATA[<p>I’m happy to announce that I’ve started my exchange program at Georgia Institute of Technology.
-At GT, I’ll be participating in undergraduate research</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I’m happy to announce that I’ve started my exchange program at Georgia Institute of Technology. At GT, I’ll be participating in undergraduate research]]></summary></entry><entry><title type="html">Best Social Service Agent</title><link href="http://localhost:4000/blog/2023/bestagent/" rel="alternate" type="text/html" title="Best Social Service Agent" /><published>2023-12-20T18:00:00+09:00</published><updated>2023-12-20T18:00:00+09:00</updated><id>http://localhost:4000/blog/2023/bestagent</id><content type="html" xml:base="http://localhost:4000/blog/2023/bestagent/"><![CDATA[<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        
+</div>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[I gave a poster presentation at the 12th Annual MRS Poster Competition, organized by the MRS Chapter at Georgia Tech and held at the Marcus Nanotechnology Building. As an undergraduate researcher, I presented my ongoing work on investigating the effect of surface treatment on Ni/Mn-based Co-free layered oxide cathode for Li-ion Batteries. You can find the poster in the “Project” section of this website. This was my very first poster presentation. The whole processes of desiging the poster, preparing a short pitch, and answering questions from the audience helped me further develop my scientific comuunication skills. It was truly a fantastic experience. I’d like to give a special shout-out to my mentor Yoojin and my advisor Prof. Meilin Liu for their invaluable advice and support.]]></summary></entry><entry><title type="html">Excellent Social Service Personnel Award</title><link href="http://localhost:4000/blog/2023/BestAgentAward/" rel="alternate" type="text/html" title="Excellent Social Service Personnel Award" /><published>2023-12-20T18:00:00+09:00</published><updated>2023-12-20T18:00:00+09:00</updated><id>http://localhost:4000/blog/2023/BestAgentAward</id><content type="html" xml:base="http://localhost:4000/blog/2023/BestAgentAward/"><![CDATA[<p>I’m honored to be a receipient of “10th Excellent Social Service Personnel Award” (제10회 사회복무대상) from Korea Military Manpower Administration.
+I’m currently taking a leave of absence and serving as a social service personnel (an alternative from of the mandatory military service) in Muan Social Welfare Center since November 2022.
+I was recommended by my supervisor for my diligent attitude during the service period, as well as for my contributions to improving the center’s facilities and my strong client service skills.
+This news was also featured in a <a href="https://www.gjdream.com/news/articleView.html?idxno=637580">local newspaper</a>.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -118,11 +158,10 @@ At GT, I’ll be participating in undergraduate research</p>]]></content><author
   
 </figure>
 
-    </div>
-</div>
-<p>I’m honored to be a receipient of Excellent Social Service Personnel Award from Korea Military Manpower Administration.
-in recognition of outstanding commitment and activities during the service</p>]]></content><author><name></name></author><category term="extracurricular," /><category term="honor" /><summary type="html"><![CDATA[I’m honored to be a receipient of Excellent Social Service Personnel Award from Korea Military Manpower Administration. in recognition of outstanding commitment and activities during the service]]></summary></entry><entry><title type="html">KPF Academic Conference Best Study Award</title><link href="http://localhost:4000/blog/2022/KPFBestStudy/" rel="alternate" type="text/html" title="KPF Academic Conference Best Study Award" /><published>2022-02-22T18:00:00+09:00</published><updated>2022-02-22T18:00:00+09:00</updated><id>http://localhost:4000/blog/2022/KPFBestStudy</id><content type="html" xml:base="http://localhost:4000/blog/2022/KPFBestStudy/"><![CDATA[<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>
+</div>]]></content><author><name></name></author><category term="extracurricular," /><category term="honors" /><summary type="html"><![CDATA[I’m honored to be a receipient of “10th Excellent Social Service Personnel Award” (제10회 사회복무대상) from Korea Military Manpower Administration. I’m currently taking a leave of absence and serving as a social service personnel (an alternative from of the mandatory military service) in Muan Social Welfare Center since November 2022. I was recommended by my supervisor for my diligent attitude during the service period, as well as for my contributions to improving the center’s facilities and my strong client service skills. This news was also featured in a local newspaper.]]></summary></entry><entry><title type="html">KPF Academic Conference Best Study Award</title><link href="http://localhost:4000/blog/2022/KPFBestStudyAward/" rel="alternate" type="text/html" title="KPF Academic Conference Best Study Award" /><published>2022-02-22T18:00:00+09:00</published><updated>2022-02-22T18:00:00+09:00</updated><id>http://localhost:4000/blog/2022/KPFBestStudyAward</id><content type="html" xml:base="http://localhost:4000/blog/2022/KPFBestStudyAward/"><![CDATA[<p>I won third prize out of 26 teams in the Best Study Award at the KPF Academic Conference! I submitted the work from my URP (KAIST Undergraduate Research Program) project last year, “Developing an Electrolytic Zn-Mn Battery System and Identifying Key Operating Conditions.” I’m grateful to my mentor Kyungjae and my advisor Prof. Hee-Tak Kim for their support.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -143,8 +182,11 @@ in recognition of outstanding commitment and activities during the service</p>]]
 
   
 </figure>
-</swiper-slide>
-  <swiper-slide>
+
+</div>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
 
 
 
@@ -157,15 +199,13 @@ in recognition of outstanding commitment and activities during the service</p>]]
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/assets/img/220222KPFBestStudy2.heic" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/assets/img/220222KPFBestStudy2-480.webp 480w,/assets/img/220222KPFBestStudy2-800.webp 800w,/assets/img/220222KPFBestStudy2-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/assets/img/220222KPFBestStudy2.heic" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/220222KPFBestStudy2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
 </figure>
-</swiper-slide>
-</swiper-container>
 
-<p>I won the third prize in best study award in KPF academic conference</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="research," /><category term="honors" /><summary type="html"><![CDATA[I won third prize out of 26 teams in the Best Study Award at the KPF Academic Conference! I submitted the work from my URP (KAIST Undergraduate Research Program) project last year, “Developing an Electrolytic Zn-Mn Battery System and Identifying Key Operating Conditions.” I’m grateful to my mentor Kyungjae and my advisor Prof. Hee-Tak Kim for their support.]]></summary></entry></feed>

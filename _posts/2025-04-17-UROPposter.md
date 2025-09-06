@@ -8,13 +8,19 @@ categories:
 related_posts: false
 featured: false
 thumbnail: assets/img/250417UROP1.jpg
-images:
-  slider: true
 ---
+I successfully presented my ongoing research at the 19th UROP Spring Symposium, held at the Exhibition Hall at Georgia Tech. Building on the lessons learned from my previous MRS poster session, I was able to deliver a more refined and effective presentation.
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/250417UROP1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/250417UROP2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+<div class="text-center mb-4 w-75 mx-auto">
+  {% include figure.liquid 
+    loading="eager" 
+    path="assets/img/250417UROP1.jpg" 
+    class="img-fluid rounded z-depth-1" %}
+</div>
 
-I gave the poster presentation in the 19th UROP (Undergraduate Research Opportunities Program) Spring Symposium at Exhibition Hall. It was a fantastic experience.
+<div class="text-center mb-4 w-75 mx-auto">
+  {% include figure.liquid 
+    loading="eager" 
+    path="assets/img/250417UROP2.jpg" 
+    class="img-fluid rounded z-depth-1" %}
+</div>

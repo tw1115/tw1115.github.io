@@ -8,13 +8,22 @@ categories:
 related_posts: false
 featured: false
 thumbnail: assets/img/250403MRS1.jpg
-images:
-  slider: true
 ---
+I gave a poster presentation at the 12th Annual MRS Poster Competition, organized by the MRS Chapter at Georgia Tech and held at the Marcus Nanotechnology Building.
+As an undergraduate researcher, I presented my ongoing work on investigating the effect of surface treatment on Ni/Mn-based Co-free layered oxide cathode for Li-ion Batteries. You can find the poster in the "Project" section of this website.
+This was my very first poster presentation. The whole processes of desiging the poster, preparing a short pitch, and answering questions from the audience helped me further develop my scientific comuunication skills. It was truly a fantastic experience.
+I'd like to give a special shout-out to my mentor Yoojin and my advisor Prof. Meilin Liu for their invaluable advice and support.
 
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/250403MRS1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/250403MRS2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-</swiper-container>
+<div class="text-center mb-4 w-75 mx-auto">
+  {% include figure.liquid 
+    loading="eager" 
+    path="assets/img/250403MRS1.jpg" 
+    class="img-fluid rounded z-depth-1" %}
+</div>
 
-I gave the poster presentation in the 12th Annual MRS Poster Competition at Marcus Nanotechnology building. It was a fantastic experience.
+<div class="text-center mb-4 w-75 mx-auto">
+  {% include figure.liquid 
+    loading="eager" 
+    path="assets/img/250403MRS2.jpg" 
+    class="img-fluid rounded z-depth-1" %}
+</div>

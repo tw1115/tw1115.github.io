@@ -39,24 +39,35 @@ ninja.data = [{
           },
         },{id: "post-my-first-publication",
         
-          title: "My first publication",
+          title: "My First Publication",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/firstpub/";
+            window.location.href = "/blog/2025/FirstPaper/";
           
         },
-      },{id: "post-new-position-as-an-undergraduate-research-assistant-at-prof-nam-soon-choi-39-s-lab-at-kaist",
+      },{id: "post-undergraduate-research-assistant-at-prof-nam-soon-choi-39-s-lab-at-kaist",
         
-          title: "New Position as an Undergraduate Research Assistant at Prof. Nam-Soon Choi&#39;s lab at...",
+          title: "Undergraduate Research Assistant at Prof. Nam-Soon Choi&#39;s lab at KAIST",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/nschoi/";
+            window.location.href = "/blog/2025/NewURA/";
+          
+        },
+      },{id: "post-wrapping-up-my-georgia-tech-exchange-journey",
+        
+          title: "Wrapping up my Georgia Tech Exchange Journey",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GeorgiaTechExchange/";
           
         },
       },{id: "post-georgia-tech-19th-urop-spring-symposium",
@@ -67,7 +78,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/UROPposter/";
+            window.location.href = "/blog/2025/UROPPoster/";
           
         },
       },{id: "post-georgia-tech-12th-annual-mrs-poster-competition",
@@ -78,29 +89,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/MRSposter/";
+            window.location.href = "/blog/2025/MRSPoster/";
           
         },
-      },{id: "post-exchange-program-at-georgia-institute-of-technology",
+      },{id: "post-excellent-social-service-personnel-award",
         
-          title: "Exchange Program at Georgia Institute of Technology",
+          title: "Excellent Social Service Personnel Award",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/GeorgiaTech/";
-          
-        },
-      },{id: "post-best-social-service-agent",
-        
-          title: "Best Social Service Agent",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/bestagent/";
+            window.location.href = "/blog/2023/BestAgentAward/";
           
         },
       },{id: "post-kpf-academic-conference-best-study-award",
@@ -111,7 +111,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/KPFBestStudy/";
+            window.location.href = "/blog/2022/KPFBestStudyAward/";
           
         },
       },{id: "books-the-godfather",
