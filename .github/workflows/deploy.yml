@@ -30,7 +30,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Or your required Ruby version
+          ruby-version: '3.4.5' # Or your required Ruby version
           bundler-cache: true # Runs bundle install and caches gems
       - name: Setup Pages
         id: pages
