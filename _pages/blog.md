@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /updates/
+title: Updates
 nav: true
-nav_order: 1
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
@@ -18,6 +18,7 @@ pagination:
 
 <div class="post">
 
+{% comment %}
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
 
@@ -28,6 +29,7 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+{% endcomment %}
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
@@ -73,7 +75,7 @@ pagination:
 <div class="float-right">
 <i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
+<h3 class="card-title">{{ post.title }}</h3>
 <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
