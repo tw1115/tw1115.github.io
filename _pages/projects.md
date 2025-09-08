@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Posters, Reports, ...
+description: An archive of posters and reports from my research projects
 nav: true
 nav_order: 4
 ---

@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: B.S. Candidate in ChBE and MSE @ KAIST
+subtitle: Undergraduate in ChBE and MSE @ KAIST
 
 profile:
   align: right
   image: TaewooKim.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> </p>
+    <p> Passport photo taken in 2024 </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm an undergraduate student studying **Chemical and Biomolecular Engineering** and **Materials Science Engineering** at **Korea Advanced Institute of Science and Technology (KAIST)**. I also finished the academic year-long exchange program at **Georgia Institute of Technology** for Fall 2024 - Spring 2025.
+Hello! I'm an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering**. I also recently completed a year-long exchange program at the **Georgia Institute of Technology** (Fall 2024 - Spring 2025).
 
-My research interests focus on optimizing electrode-electrolyte interphases through strategic materials design for Li- and Na–based batteries to realize the next-generation batteries. My interests are not confined to these systems and I'm open to study more various systems, such as all-solid-state batteries or applying computational methods
+My research interest lies in **optimizing electrode-electrolyte interphases in Li- and Na-based batteries** through strategic materials design. Building on my undergraduate research experience, I'm eager to explore other promising frontiers, such as **designing better materials for all-solid-state batteries** and **applying computational methods to accelerate materials discovery**.
 
-In my free time, I enjoy taking photos with my film camera 📷, going bouldering 🧗‍♂️, and listening to pop songs 🎧.
+I will graduate in Spring 2026 and am now in the process of applying to Ph.D. programs in the U.S. for Fall 2026 admission to continue my academic journey.
 
-I will be applying to Ph.D. programs in the United States this fall!
+In my free time, I enjoy taking photos with my film camera 📷, bouldering 🧗‍♂️, running 🏃‍♂️, and listening to my favorite music 🎧.

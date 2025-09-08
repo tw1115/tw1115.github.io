@@ -9,9 +9,12 @@ related_posts: false
 featured: false
 thumbnail: assets/img/231220bestagent.jpg
 ---
-I'm honored to be a receipient of "10th Excellent Social Service Personnel Award" (제10회 사회복무대상) from Korea Military Manpower Administration.
-I'm currently taking a leave of absence and serving as a social service personnel (an alternative from of the mandatory military service) in Muan Social Welfare Center since November 2022.
-I was recommended by my supervisor for my diligent attitude during the service period, as well as for my contributions to improving the center's facilities and my strong client service skills.
+I'm honored to be a receipient of "10th Excellent Social Service Personnel Award" (제10회 사회복무대상) from the Korea Military Manpower Administration.
+
+Since November 2022, I have been serving as a Social Service Personnel at the Muan Social Welfare Center as an alternative to mandatory military service.
+
+I was recommended by my supervisor for my diligent attitude during the service, as well as for my contributions to improving the center's facilities and my strong client service skills.
+
 This news was also featured in a [local newspaper](https://www.gjdream.com/news/articleView.html?idxno=637580).
 
 <div class="text-center mb-4 w-75 mx-auto">

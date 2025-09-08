@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "Posters, Reports, ...",
+          description: "An archive of posters and reports from my research projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -59,17 +59,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/NewURA/";
           
         },
-      },{id: "post-wrapping-up-my-georgia-tech-exchange-journey",
-        
-          title: "Wrapping up my Georgia Tech Exchange Journey",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/GeorgiaTechExchange/";
-          
-        },
       },{id: "post-georgia-tech-19th-urop-spring-symposium",
         
           title: "Georgia Tech 19th UROP Spring Symposium",
@@ -90,6 +79,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/MRSPoster/";
+          
+        },
+      },{id: "post-exchange-semester-at-georgia-institute-of-technology",
+        
+          title: "Exchange semester at Georgia Institute of Technology",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/GeorgiaTechExchange/";
           
         },
       },{id: "post-excellent-social-service-personnel-award",
