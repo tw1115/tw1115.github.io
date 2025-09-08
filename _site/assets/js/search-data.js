@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-research-projects",
+          title: "Research Projects",
           description: "An archive of posters and reports from my research projects",
           section: "Navigation",
           handler: () => {
@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/updates/index.html";
           },
-        },{id: "post-my-first-publication",
+        },{id: "post-my-first-co-authored-publication",
         
-          title: "My First Publication",
+          title: "My First Co-Authored Publication",
         
         description: "",
         section: "Posts",
@@ -83,7 +83,7 @@ ninja.data = [{
         },
       },{id: "post-exchange-semester-at-georgia-institute-of-technology",
         
-          title: "Exchange semester at Georgia Institute of Technology",
+          title: "Exchange Semester at Georgia Institute of Technology",
         
         description: "",
         section: "Posts",
@@ -103,9 +103,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/BestAgentAward/";
           
         },
-      },{id: "post-kpf-academic-conference-best-study-award",
+      },{id: "post-best-study-award-at-kpf-student-academic-conference",
         
-          title: "KPF Academic Conference Best Study Award",
+          title: "Best Study Award at KPF Student Academic Conference",
         
         description: "",
         section: "Posts",
