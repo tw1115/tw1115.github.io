@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/cv_twkim_250811.pdf
+permalink: /assets/pdf/cv_twkim_250910.pdf
 title: CV
 nav: true
 nav_order: 1
