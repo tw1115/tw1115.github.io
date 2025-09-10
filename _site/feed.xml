@@ -1,11 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-09T02:39:10+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-09T22:30:28+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">My First Co-Authored Publication</title><link href="http://localhost:4000/blog/2025/FirstPaper/" rel="alternate" type="text/html" title="My First Co-Authored Publication" /><published>2025-07-31T18:00:00+09:00</published><updated>2025-07-31T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/FirstPaper</id><content type="html" xml:base="http://localhost:4000/blog/2025/FirstPaper/"><![CDATA[<p>My first paper as a co-author, <a href="https://doi.org/10.1002/adfm.202509533">“Synergistic Effects of Entropy Tuning in Niobium-Based Oxide Anode for Fast-Charging Lithium-Ion Batteries”</a>, has been published in <em>Advanced Functional Materials</em>. This work was led by my research mentor Yoojin at Georgia Tech.</p>
 
 <p>While pursuing my own project on cathode materials, I contributed to this work by preparing some of the electrode samples for electrochemical characterization and assisting with the final proofreading of the manuscript.</p>
 
-<p>I’m truly excited about this achievement, and would like to thank Yoojin and all the co-authors for their great collaboration.</p>
+<p>I am truly excited about this achievement, and would like to thank Yoojin and all the co-authors for their great collaboration.</p>
 
-<p>The full paper can be found under “Publications” tab.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[My first paper as a co-author, “Synergistic Effects of Entropy Tuning in Niobium-Based Oxide Anode for Fast-Charging Lithium-Ion Batteries”, has been published in Advanced Functional Materials. This work was led by my research mentor Yoojin at Georgia Tech.]]></summary></entry><entry><title type="html">Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST</title><link href="http://localhost:4000/blog/2025/NewURA/" rel="alternate" type="text/html" title="Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST" /><published>2025-07-01T18:00:00+09:00</published><updated>2025-07-01T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/NewURA</id><content type="html" xml:base="http://localhost:4000/blog/2025/NewURA/"><![CDATA[<p>Returning to my home university, I started a new position as an undergraduate research assistant in <a href="https://surfchem.kaist.ac.kr">Energy Materials Lab (PI: Prof. Nam-Soon Choi)</a> at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into this new system and look forward to making meaningful contributions.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[Returning to my home university, I started a new position as an undergraduate research assistant in Energy Materials Lab (PI: Prof. Nam-Soon Choi) at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into this new system and look forward to making meaningful contributions.]]></summary></entry><entry><title type="html">Georgia Tech 19th UROP Spring Symposium</title><link href="http://localhost:4000/blog/2025/UROPPoster/" rel="alternate" type="text/html" title="Georgia Tech 19th UROP Spring Symposium" /><published>2025-04-17T18:00:00+09:00</published><updated>2025-04-17T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/UROPPoster</id><content type="html" xml:base="http://localhost:4000/blog/2025/UROPPoster/"><![CDATA[<p>I successfully presented my ongoing research at the 19th UROP Spring Symposium, held at the Exhibition Hall at Georgia Tech. Building on the lessons learned from my previous MRS poster session, I was able to deliver a more refined and effective presentation.</p>
+<p>The full paper can be found under “Publications” tab.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[My first paper as a co-author, “Synergistic Effects of Entropy Tuning in Niobium-Based Oxide Anode for Fast-Charging Lithium-Ion Batteries”, has been published in Advanced Functional Materials. This work was led by my research mentor Yoojin at Georgia Tech.]]></summary></entry><entry><title type="html">Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST</title><link href="http://localhost:4000/blog/2025/NewURA/" rel="alternate" type="text/html" title="Undergraduate Research Assistant at Prof. Nam-Soon Choi’s lab at KAIST" /><published>2025-07-01T18:00:00+09:00</published><updated>2025-07-01T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/NewURA</id><content type="html" xml:base="http://localhost:4000/blog/2025/NewURA/"><![CDATA[<p>Returning to my home university, I started a new position as an undergraduate research assistant in <a href="https://surfchem.kaist.ac.kr">Energy Materials Lab (PI: Prof. Nam-Soon Choi)</a> at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into this new system and look forward to making meaningful contributions.</p>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[Returning to my home university, I started a new position as an undergraduate research assistant in Energy Materials Lab (PI: Prof. Nam-Soon Choi) at KAIST. I will focus on studying electrolyte additives suitable for Na-ion batteries under low-temperature condition. I’m excited to delve into this new system and look forward to making meaningful contributions.]]></summary></entry><entry><title type="html">Wrapping up my Georgia Tech Exchange Journey</title><link href="http://localhost:4000/blog/2025/GeorgiaTechExchange/" rel="alternate" type="text/html" title="Wrapping up my Georgia Tech Exchange Journey" /><published>2025-05-29T18:00:00+09:00</published><updated>2025-05-29T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/GeorgiaTechExchange</id><content type="html" xml:base="http://localhost:4000/blog/2025/GeorgiaTechExchange/"><![CDATA[<p>I have successfully completed my exchange program at the Georgia Institute of Technology, where I had the opportunity to adapt to a new environment, pursue research, and connect with a diverse international community.</p>
+
+<p>Since I had been considering pursuing a Ph.D. in the U.S., I wanted to experience what life at a U.S. university would be like and see how well I could adapt during the exchange. However, adjusting to a new environment wasn’t as easy as it seemed. The cultural differences with Korea were greater than I expected, and I often struggled to express myself naturally since I wasn’t used to speaking English on a daily basis. Nevertheless, I pushed myself beyond my comfort zone and embraced new experiences, while also being fortunate to meet many supportive friends along the way. Over time, I found myself adapting more smoothly than I had expected, and I started to appreciate dynamic atmosphere and diverse perspectives around me. This journey not only boosted my confidence in English but also convinced me that I can thrive both academically and personally in the United States.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/GTRamblinWreck-480.webp 480w,/assets/img/GTRamblinWreck-800.webp 800w,/assets/img/GTRamblinWreck-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/GTRamblinWreck.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+    <figcaption class="caption">Me with the Ramblin' Wreck</figcaption>
+  
+</figure>
+
+</div>
+
+<p>During the exchange, I devoted much of my effort to the research. At Prof. Meilin Liu’s lab, I deepened my understanding of lithium-ion batteries and gained valuable research experience working on cathode materials. Presenting my work in lab meetings and poster sessions further improved my scientific communication skills and prepared me for future academic challenges.</p>
+
+<div class="text-center mb-4 w-75 mx-auto">
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/GTLiuLabPhoto-480.webp 480w,/assets/img/GTLiuLabPhoto-800.webp 800w,/assets/img/GTLiuLabPhoto-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/GTLiuLabPhoto.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+    <figcaption class="caption">Group photo of Liu's lab</figcaption>
+  
+</figure>
+
+</div>
+
+<p>Beyond research, I lived in international dormitories (I-Lead and I-House), where I built lasting friendships with students from around the world. These interactions broadened my cultural awareness and communication skills, making the exchange a truly transformative chapter of my life journey.</p>
+
+<div class="row mb-0">
+  <div class="col-md-6">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/ihouserunningcrew-480.webp 480w,/assets/img/ihouserunningcrew-800.webp 800w,/assets/img/ihouserunningcrew-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/ihouserunningcrew.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+  </div>
+  <div class="col-md-6">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/ileadfriends-480.webp 480w,/assets/img/ileadfriends-800.webp 800w,/assets/img/ileadfriends-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/ileadfriends.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+  </div>
+</div>
+
+<div class="col-12 mt-n4">
+  
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="" sizes="95vw" />
+      
+    
+    <img src="" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+    <figcaption class="caption">Friends from the international dormitories</figcaption>
+  
+</figure>
+
+</div>
+
+<p>It’s a little bit bittersweet to say goodbye to Georgia Tech, but I also look forward to embarking on a new chapter back at KAIST!</p>]]></content><author><name></name></author><category term="extracurricular" /><summary type="html"><![CDATA[I have successfully completed my exchange program at the Georgia Institute of Technology, where I had the opportunity to adapt to a new environment, pursue research, and connect with a diverse international community.]]></summary></entry><entry><title type="html">Georgia Tech 19th UROP Spring Symposium</title><link href="http://localhost:4000/blog/2025/UROPPoster/" rel="alternate" type="text/html" title="Georgia Tech 19th UROP Spring Symposium" /><published>2025-04-17T18:00:00+09:00</published><updated>2025-04-17T18:00:00+09:00</updated><id>http://localhost:4000/blog/2025/UROPPoster</id><content type="html" xml:base="http://localhost:4000/blog/2025/UROPPoster/"><![CDATA[<p>I successfully presented my ongoing research at the 19th UROP Spring Symposium, held at the Exhibition Hall at Georgia Tech. Building on the lessons learned from my previous MRS poster session, I was able to deliver a more refined and effective presentation.</p>
 
 <div class="text-center mb-4 w-75 mx-auto">
   
@@ -111,11 +251,11 @@
   
 </figure>
 
-</div>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[I gave a poster presentation at the 12th Annual MRS Poster Competition, organized by the MRS Chapter at Georgia Tech and held at the Marcus Nanotechnology Building.]]></summary></entry><entry><title type="html">Exchange Semester at Georgia Institute of Technology</title><link href="http://localhost:4000/blog/2024/GeorgiaTechExchange/" rel="alternate" type="text/html" title="Exchange Semester at Georgia Institute of Technology" /><published>2024-08-12T18:00:00+09:00</published><updated>2024-08-12T18:00:00+09:00</updated><id>http://localhost:4000/blog/2024/GeorgiaTechExchange</id><content type="html" xml:base="http://localhost:4000/blog/2024/GeorgiaTechExchange/"><![CDATA[<p>Right after getting discharged from my service duty, I’m starting new chapter of my academic journey at Georgia Institute of Technology.</p>
+</div>]]></content><author><name></name></author><category term="research" /><summary type="html"><![CDATA[I gave a poster presentation at the 12th Annual MRS Poster Competition, organized by the MRS Chapter at Georgia Tech and held at the Marcus Nanotechnology Building.]]></summary></entry><entry><title type="html">Exchange Semester at Georgia Institute of Technology</title><link href="http://localhost:4000/blog/2024/GeorgiaTechExchange/" rel="alternate" type="text/html" title="Exchange Semester at Georgia Institute of Technology" /><published>2024-08-12T18:00:00+09:00</published><updated>2024-08-12T18:00:00+09:00</updated><id>http://localhost:4000/blog/2024/GeorgiaTechExchange</id><content type="html" xml:base="http://localhost:4000/blog/2024/GeorgiaTechExchange/"><![CDATA[<p>Right after getting discharged from my service duty, I’m starting new chapter of my academic journey at Georgia Institute of Technology. Go Jackets! 🐝</p>
 
-<p>At Georgia Tech, I will be joining <a href="https://fcbt.mse.gatech.edu">Prof. Meilin Liu’s research group</a> as an undergraduate researcher, focusing on studying electrode materials for Lithium-ion batteries. In addition, I will be taking relevant courseworks, such as Electrochemical Energy Storage and Conversion, to fulfil my degree requirements at KAIST.</p>
+<p>At Georgia Tech, I will be joining <a href="https://fcbt.mse.gatech.edu">Prof. Meilin Liu’s research group</a> as an undergraduate researcher, focusing on studying electrode materials for Lithium-ion batteries. In addition, I will be taking relevant courseworks, such as <em>Electrochemical Energy Storage and Conversion</em>, to fulfill my degree requirements at KAIST.</p>
 
-<p>I’m also honored to be a recipient of KOR-US High-Tech Industry Student Exchange Scholarship. This scholarship provides significant financial support of 9,000 USD and invaluable opportunities to visit leading research facilities across the U.S.</p>]]></content><author><name></name></author><category term="extracurricular" /><summary type="html"><![CDATA[Right after getting discharged from my service duty, I’m starting new chapter of my academic journey at Georgia Institute of Technology.]]></summary></entry><entry><title type="html">Excellent Social Service Personnel Award</title><link href="http://localhost:4000/blog/2023/BestAgentAward/" rel="alternate" type="text/html" title="Excellent Social Service Personnel Award" /><published>2023-12-20T18:00:00+09:00</published><updated>2023-12-20T18:00:00+09:00</updated><id>http://localhost:4000/blog/2023/BestAgentAward</id><content type="html" xml:base="http://localhost:4000/blog/2023/BestAgentAward/"><![CDATA[<p>I’m honored to be a receipient of “10th Excellent Social Service Personnel Award” (제10회 사회복무대상) from the Korea Military Manpower Administration.</p>
+<p>I’m also honored to be a recipient of KOR-US High-Tech Industry Student Exchange Scholarship, as the part of the <a href="https://www.koreatimes.co.kr/business/companies/20230427/korea-us-to-nurture-young-stem-experts">KOR-US STEM Educational Exchange Initiative</a>. This scholarship provides financial support of 9,000 USD and opportunities to visit leading research facilities across the United States.</p>]]></content><author><name></name></author><category term="extracurricular" /><summary type="html"><![CDATA[Right after getting discharged from my service duty, I’m starting new chapter of my academic journey at Georgia Institute of Technology. Go Jackets! 🐝]]></summary></entry><entry><title type="html">Excellent Social Service Personnel Award</title><link href="http://localhost:4000/blog/2023/BestAgentAward/" rel="alternate" type="text/html" title="Excellent Social Service Personnel Award" /><published>2023-12-20T18:00:00+09:00</published><updated>2023-12-20T18:00:00+09:00</updated><id>http://localhost:4000/blog/2023/BestAgentAward</id><content type="html" xml:base="http://localhost:4000/blog/2023/BestAgentAward/"><![CDATA[<p>I’m honored to be a receipient of “10th Excellent Social Service Personnel Award” (제10회 사회복무대상) from the Korea Military Manpower Administration.</p>
 
 <p>Since November 2022, I have been serving as a Social Service Personnel at the Muan Social Welfare Center as an alternative to mandatory military service.</p>
 

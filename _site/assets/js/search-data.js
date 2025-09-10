@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/NewURA/";
           
         },
+      },{id: "post-wrapping-up-my-georgia-tech-exchange-journey",
+        
+          title: "Wrapping up my Georgia Tech Exchange Journey",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/GeorgiaTechExchange/";
+          
+        },
       },{id: "post-georgia-tech-19th-urop-spring-symposium",
         
           title: "Georgia Tech 19th UROP Spring Symposium",

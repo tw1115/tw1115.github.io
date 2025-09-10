@@ -13,6 +13,6 @@ My first paper as a co-author, ["Synergistic Effects of Entropy Tuning in Niobiu
 
 While pursuing my own project on cathode materials, I contributed to this work by preparing some of the electrode samples for electrochemical characterization and assisting with the final proofreading of the manuscript.
 
-I'm truly excited about this achievement, and would like to thank Yoojin and all the co-authors for their great collaboration.
+I am truly excited about this achievement, and would like to thank Yoojin and all the co-authors for their great collaboration.
 
 The full paper can be found under "Publications" tab.
