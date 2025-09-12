@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering**. I also completed a year-long exchange program at the **Georgia Institute of Technology** (Fall 2024 - Spring 2025).
+Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering**. I also completed a year-long exchange program at the **Georgia Institute of Technology** (Fall 2024 - Spring 2025).
 
-My research interest lies in **optimizing electrode-electrolyte interphases in Li- and Na-based batteries** through strategic materials design. Building on my undergraduate research experience, I'm eager to explore other promising frontiers, such as **all-solid-state batteries** and **applying computational methods to accelerate materials discovery**.
+My research interest lies in **optimizing electrode-electrolyte interphases in Li- and Na-based batteries** through strategic materials design. Building on my undergraduate research experience, I am eager to explore other promising frontiers, such as **all-solid-state batteries**, **tuning the bulk crystal structure of the active materials**, and **applying computational methods to accelerate materials discovery**.
 
 I will graduate in Spring 2026 and am now in the process of applying to Ph.D. programs in the U.S. for Fall 2026 admission to continue my academic journey.
 
