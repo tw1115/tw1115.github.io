@@ -6,10 +6,10 @@ subtitle: Undergraduate in ChBE and MSE @ KAIST
 
 profile:
   align: right
-  image: TaewooKim.jpg
+  image: TaewooKimProfile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Passport photo taken in 2024 </p>
+    <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering**. I also completed a year-long exchange program at the **Georgia Institute of Technology** (Fall 2024 - Spring 2025).
+Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering** with a **culmulative GPA of 4.21/4.3**. I also completed a year-long exchange program at the **Georgia Institute of Technology**, where I conducted undergraduate research on Li-ion batteries in **Prof. Meilin Liu**'s lab.
 
 My research interest lies in **interfacial electrochemistry and materials design for advanced Li- and Na-based batteries**. Building on my undergraduate research experience, I am eager to explore other promising frontiers, such as **solid electrolyte for all-solid-state batteries**, **tuning the bulk crystal structure of the active materials**, and **applying computational methods to accelerate materials discovery**.
 

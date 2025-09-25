@@ -2,6 +2,7 @@
 layout: default
 permalink: /updates/
 title: Updates
+description: An archive of my notable accompolishments
 nav: true
 nav_order: 5
 pagination:
@@ -30,6 +31,11 @@ pagination:
   </div>
   {% endif %}
 {% endcomment %}
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 

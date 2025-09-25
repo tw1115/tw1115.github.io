@@ -11,10 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/cv_twkim_250910.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-updates",
           title: "Updates",
-          description: "",
+          description: "An archive of my notable accompolishments",
           section: "Navigation",
           handler: () => {
             window.location.href = "/updates/index.html";
