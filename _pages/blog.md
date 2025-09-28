@@ -2,7 +2,7 @@
 layout: default
 permalink: /updates/
 title: Updates
-description: An archive of my notable accompolishments
+description: An archive of my notable accomplishments
 nav: true
 nav_order: 5
 pagination:
@@ -32,7 +32,7 @@ pagination:
   {% endif %}
 {% endcomment %}
 
-  <header class="post-header">
+  <header class="post-header" style="margin-bottom: 0.5rem;">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
   </header>

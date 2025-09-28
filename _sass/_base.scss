@@ -19,6 +19,10 @@ strong {
   color: var(--global-text-color);
 }
 
+a strong {
+  color: var(--global-theme-color) !important;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -42,6 +46,11 @@ table.table a {
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
+  }
+
+  strong {
+    color: var(--global-theme-color);
+    font-weight: bold;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -561,7 +570,8 @@ footer.sticky-bottom {
 .tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
+  padding-top: 0.5rem;  /* Reduced from 1rem to 0.5rem */
+  margin-top: -1.5rem;  /* Added negative margin to reduce space from header */
 
   ul {
     justify-content: center;
@@ -577,13 +587,11 @@ footer.sticky-bottom {
   }
 }
 
-.post-title {
-  mjx-container[jax="CHTML"][display="true"] {
-    display: unset;
-  }
-}
-
-.post-list {
+    .post-title {
+      mjx-container[jax="CHTML"][display="true"] {
+        display: unset;
+      }
+    }.post-list {
   margin: 0;
   margin-bottom: 40px;
   padding: 0;
@@ -763,7 +771,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;  /* Increased from bolder to 500 for more emphasis */
       }
 
       .author {
@@ -914,6 +922,14 @@ html.transition *:after {
 }
 
 // Extra Markdown style (post Customization)
+.post {
+  .post-header {
+    h1.post-title {
+      font-weight: 500;
+    }
+  }
+}
+
 .post {
   .post-meta {
     color: var(--global-text-color-light);
