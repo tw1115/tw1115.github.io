@@ -10,7 +10,7 @@ description: Curriculum Vitae
 <div class="pdf-container">
     <div id="loading" class="loading">Loading CV...</div>
     <iframe 
-        src="{{ '/pdfjs/web/viewer.html' | relative_url }}" 
+        src="/pdfjs/web/viewer.html?file=/assets/pdf/cv_twkim_250928.pdf"
         width="100%" 
         height="100vh" 
         style="border: none; min-height: 800px;" 

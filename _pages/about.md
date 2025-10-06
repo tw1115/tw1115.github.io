@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering** with a **culmulative GPA of 4.21/4.3**.<br>I also completed a year-long exchange program at the **Georgia Institute of Technology**, where I conducted undergraduate research on Li-ion batteries and co-authored a publication on high-performance anodes in [**Prof. Meilin Liu**'s lab](https://www.fcbt.mse.gatech.edu/).
+Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering** with a **culmulative GPA of 4.21/4.3**.<br>I also completed a year-long exchange program at the **Georgia Institute of Technology**, where I conducted undergraduate research on Li-ion batteries and co-authored a publication on high-performance anodes in _Advanced Functional Materials_ in [**Prof. Meilin Liu**'s lab](https://www.fcbt.mse.gatech.edu/).
 
-My research interest lies in **interfacial electrochemistry and materials design for advanced Li- and Na-based batteries**. Building on my undergraduate research experience, I am eager to explore other promising frontiers, such as **investigating solid-state battery interfaces**, **tuning the bulk crystal structure of the active materials**, and **applying computational methods to accelerate materials discovery**.
+My research interest lies in **designing novel materials and engineering interfacial electrochemistry for advanced Li- and Na-based batteries**. Building on my undergraduate research experience, I am eager to explore other promising frontiers, such as **investigating solid-state battery interfaces**, **tuning the bulk crystal structure of the active materials**, and **applying computational methods to accelerate materials discovery**.
 
 I will graduate in Spring 2026 and am now in the process of applying to Ph.D. programs in the U.S. for Fall 2026 admission to continue my academic journey.
 
