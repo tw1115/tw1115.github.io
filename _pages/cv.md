@@ -10,7 +10,7 @@ description: Curriculum Vitae
 <div class="pdf-container">
     <div id="loading" class="loading">Loading CV...</div>
     <iframe 
-        src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://tw1115.github.io/assets/pdf/cv_twkim_250928.pdf"
+        src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://tw1115.github.io/assets/pdf/cv_twkim.pdf"
         width="100%" 
         height="100vh" 
         style="border: none; min-height: 800px;" 

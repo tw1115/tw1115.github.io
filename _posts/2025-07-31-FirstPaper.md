@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Co-Authored Publication
+title: My First Publication as a Co-Author
 date: 2025-07-31 09:00:00
 description:
 tags: research

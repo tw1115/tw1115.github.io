@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/updates/index.html";
           },
-        },{id: "post-my-first-co-authored-publication",
+        },{id: "post-my-first-publication-as-a-co-author",
         
-          title: "My First Co-Authored Publication",
+          title: "My First Publication as a Co-Author",
         
         description: "",
         section: "Posts",
