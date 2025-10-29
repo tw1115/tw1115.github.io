@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering** with a **culmulative GPA of 4.21/4.3**.<br>I also completed a year-long exchange program at the **Georgia Institute of Technology**, where I conducted undergraduate research on cathodes in Li-ion batteries and contributed to a publication on entropy-tuned anodes in _Advanced Functional Materials_ in [**Prof. Meilin Liu**'s lab](https://www.fcbt.mse.gatech.edu/).
+Hello! I am an undergraduate student at the **Korea Advanced Institute of Science and Technology (KAIST)**, double majoring in **Chemical and Biomolecular Engineering** and **Materials Science and Engineering** with a **culmulative GPA of 4.21/4.3**.<br>I also completed a year-long exchange program at the **Georgia Institute of Technology**, where I conducted undergraduate research on Co-free cathodes for Li-ion batteries and contributed to a publication on entropy-tuned anodes in _Advanced Functional Materials_ in [**Prof. Meilin Liu**'s lab](https://www.fcbt.mse.gatech.edu/).
 
 My primary research focus lies in **designing battery materials and engineering their interfaces to develop more affordable batteries**. Building on my undergraduate research experience, I am eager to explore new frontiers, such as **tuning the bulk crystal structure of the active materials through controlled disorder**, **investigating chemo-mechanical challenges at solid-state battery interfaces**, and **leveraging machine learning to accelerate experimental workflows**.
 
