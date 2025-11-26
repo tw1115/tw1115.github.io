@@ -114,17 +114,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/BestAgentAward/";
           
         },
-      },{id: "post-best-study-award-at-kpf-student-academic-conference",
-        
-          title: "Best Study Award at KPF Student Academic Conference",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/KPFBestStudyAward/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",

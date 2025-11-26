@@ -7,7 +7,8 @@ tags: research, honors
 categories:
 related_posts: false
 featured: false
-thumbnail: assets/img/220222KPFBestStudy1.jpg
+published: false
+#thumbnail: assets/img/220222KPFBestStudy1.jpg
 ---
 I won third prize out of 26 teams in the Best Study Award at the KPF (KAIST Presidential Fellowhip) Student Academic Conference, organized by Global Leadership Center at KAIST.
 
